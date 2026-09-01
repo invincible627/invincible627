@@ -103,6 +103,11 @@ It has a different license, because it is my first Telegram bot and I wanted its
 ```
 https://github.com/invincible627/py_runner
 ```
+portavan: There is an artificial intelligence that is being worked on to become a powerful artificial intelligence.
+working on it's data
+```
+https://github.com/invincible627/portavan
+```
 ---
 Thank you for reading this introduction.
 # درباره‌ی من
@@ -209,6 +214,10 @@ py_runner: یک ربات تلگرامی هست که کدهای پایتون رو
 لایسنس متفاوتی داره، برای اینکه اولین ربات تلگرامی من هست و دوست داشتم خاطراتش برام بمونه و خودم فقط بتونم از لحاظ اجرایی کنترلش کنم
 ```
 https://github.com/invincible627/py_runner
+```
+portavan: یک هوش مصنوعی هست که داره روی داده‌هاش کار می‌شه تا به یه هوش مصنوعی قدرتمند تبدیل بشه
+```
+https://github.com/invincible627/portavan
 ```
 ---
 ممنونم که این معرفی‌نامه رو خوندید.
